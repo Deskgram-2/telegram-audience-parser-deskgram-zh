@@ -1,0 +1,5 @@
+{
+  "only_active": true,
+  "exclude_admins": true,
+  "min_messages": 1
+}

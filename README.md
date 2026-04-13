@@ -1,5 +1,7 @@
 # Deskgram 2 受众收集
 
+![Audience Parser Main](assets/screenshots/collect-audience__main__zh.png)
+
 受众收集是 Deskgram 2 中用于从 Telegram 群组、聊天和相关来源整理用户基础的模块。它帮助你把后续私信、邀请和订阅场景需要的受众数据准备成可继续使用的结构。
 
 [Deskgram 2 中文总览](https://github.com/Deskgram-2/deskgram-2-telegram-automation-zh) | [官网](https://deskgram2.com/) | [Telegram Bot](https://t.me/DG2welcomebot) | [Web Preview](https://deskgram2.com/web-preview)
@@ -28,6 +30,20 @@
 2. 配置过滤规则。
 3. 运行收集流程并检查结果。
 4. 将整理好的基础继续用于私信群发或批量订阅。
+
+## 界面亮点
+
+### 主界面
+
+![Audience Parser Main Screen](assets/screenshots/collect-audience__main__zh.png)
+
+### 过滤规则
+
+![Audience Filters](assets/screenshots/collect-audience__filters__zh.png)
+
+### 日志与结果
+
+![Audience Logs](assets/screenshots/collect-audience__logs__zh.png)
 
 ## 适合在什么情况下使用
 

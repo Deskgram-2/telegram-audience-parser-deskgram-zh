@@ -31,6 +31,13 @@
 3. 运行收集流程并检查结果。
 4. 将整理好的基础继续用于私信群发或批量订阅。
 
+## 收集之后可以怎么走
+
+- [私信群发](https://github.com/Deskgram-2/telegram-direct-messaging-deskgram-zh)，如果这批受众要进入私聊触达。
+- [邀请模块](https://github.com/Deskgram-2/telegram-invite-tool-deskgram-zh)，如果这批基础将用于频道或群组增长。
+- [账号面板](https://github.com/Deskgram-2/telegram-account-manager-deskgram-zh)，如果还需要整理执行账号层。
+- [批量订阅](https://github.com/Deskgram-2/telegram-join-groups-deskgram-zh)，如果下一个阶段需要先准备环境。
+
 ## 界面亮点
 
 ### 主界面
@@ -66,6 +73,8 @@
 - [Deskgram 2 中文总览](https://github.com/Deskgram-2/deskgram-2-telegram-automation-zh)
 - [私信群发](https://github.com/Deskgram-2/telegram-direct-messaging-deskgram-zh)
 - [批量订阅](https://github.com/Deskgram-2/telegram-join-groups-deskgram-zh)
+- [邀请模块](https://github.com/Deskgram-2/telegram-invite-tool-deskgram-zh)
+- [账号面板](https://github.com/Deskgram-2/telegram-account-manager-deskgram-zh)
 
 ## FAQ
 

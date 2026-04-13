@@ -38,6 +38,12 @@
 - [账号面板](https://github.com/Deskgram-2/telegram-account-manager-deskgram-zh)，如果还需要整理执行账号层。
 - [批量订阅](https://github.com/Deskgram-2/telegram-join-groups-deskgram-zh)，如果下一个阶段需要先准备环境。
 
+## 这页在中文工作流里的位置
+
+- [代理管理](https://github.com/Deskgram-2/telegram-proxy-manager-deskgram-zh)，如果在执行前要先把基础设施整理好。
+- [设置](https://github.com/Deskgram-2/telegram-automation-settings-deskgram-zh)，如果采集和后续执行依赖统一的系统环境。
+- [任务管理器](https://github.com/Deskgram-2/telegram-task-manager-deskgram-zh)，如果你想把采集和下一步执行放在同一个控制层里。
+
 ## 界面亮点
 
 ### 主界面
@@ -75,6 +81,9 @@
 - [批量订阅](https://github.com/Deskgram-2/telegram-join-groups-deskgram-zh)
 - [邀请模块](https://github.com/Deskgram-2/telegram-invite-tool-deskgram-zh)
 - [账号面板](https://github.com/Deskgram-2/telegram-account-manager-deskgram-zh)
+- [代理管理](https://github.com/Deskgram-2/telegram-proxy-manager-deskgram-zh)
+- [设置](https://github.com/Deskgram-2/telegram-automation-settings-deskgram-zh)
+- [任务管理器](https://github.com/Deskgram-2/telegram-task-manager-deskgram-zh)
 
 ## FAQ
 

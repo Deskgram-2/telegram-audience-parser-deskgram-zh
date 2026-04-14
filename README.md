@@ -74,6 +74,29 @@
 | 后续流程衔接麻烦 | 能直接连接到私信或订阅模块 |
 | 重复收集效率低 | 工作流更适合持续使用 |
 
+## 该选哪个：受众收集、评论受众收集，还是聊天活跃用户收集
+
+| 如果你的目标是 | 更适合哪个 |
+|---|---|
+| 从群组和聊天里拿到更宽的用户基础 | [受众收集](https://github.com/Deskgram-2/telegram-audience-parser-deskgram-zh) |
+| 获取更热的评论区用户 | [评论受众收集](https://github.com/Deskgram-2/telegram-comment-audience-parser-deskgram) |
+| 锁定已经在聊天里发言的用户 | [聊天活跃用户收集](https://github.com/Deskgram-2/telegram-active-chat-users-parser-deskgram) |
+| 为不同漏斗准备多个受众段 | 三种收集路径组合使用 |
+
+## 场景 FAQ
+
+### 什么时候把基础送去私信，什么时候送去邀请？
+
+如果下一步是建立个人联系，更适合进入 [私信群发](https://github.com/Deskgram-2/telegram-direct-messaging-deskgram-zh)。如果目标是社区增长和导入群组或频道，更适合进入 [邀请模块](https://github.com/Deskgram-2/telegram-invite-tool-deskgram-zh)。
+
+### 哪种基础通常表现更好？
+
+更热的受众段通常来自评论区、活跃讨论和更明显的互动行为，在回复型流程里往往表现更好。但更宽的基础也很有价值，尤其是后续还会继续筛选时。
+
+### 如果一开始还不知道该抓哪些来源怎么办？
+
+那就先从 discovery 模块开始，比如 [频道与群组搜索](https://github.com/Deskgram-2/telegram-channel-search-deskgram) 和 [相似频道搜索](https://github.com/Deskgram-2/telegram-similar-channels-deskgram)。确定来源后再进入收集阶段会更顺。
+
 ## 相关仓库
 
 - [Deskgram 2 中文总览](https://github.com/Deskgram-2/deskgram-2-telegram-automation-zh)

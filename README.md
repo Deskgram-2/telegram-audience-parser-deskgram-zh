@@ -11,6 +11,8 @@
 
 在浏览器中体验这个模块: [打开 Web Preview](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fcollect_audience)
 
+如果你想先判断这个模块是否适合当前场景，可以先打开 web preview，在浏览器里看看界面结构，再决定是否继续安装和配置。
+
 
 
 ## жЁЎеќ—з®Ђд»‹
@@ -116,6 +118,11 @@
 - [д»»еЉЎз®Ўзђ†е™Ё](https://github.com/Deskgram-2/telegram-task-manager-deskgram-zh)
 
 ## FAQ
+
+
+### 可以先查看界面再决定是否安装吗？
+
+可以。这个 README 里已经有直接的 web preview 链接，你可以先在浏览器中打开模块，看看界面和结构，再决定是否继续安装和配置账号。
 
 ### ж”¶й›†е®Њж€ђеђЋжњЂи‡Єз„¶зљ„дё‹дёЂж­ҐжЇд»Ђд№€пјџ
 
